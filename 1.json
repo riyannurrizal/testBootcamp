@@ -1,0 +1,28 @@
+{
+	"name" : "Riyan",
+	"address" : "Banjar",
+	"hobbies" : [
+		{
+		"First" : "Makan"
+		},
+		{
+		"Second" : "baca buku horror"
+		}
+	],
+	"is_married" : false,
+	"school": {
+		"highSchool" : "SMA Negeri 2 Banjar",
+		"university" : "UNIKOM"
+	},
+	"skill" : [
+		{
+			"jenis" : "umum",
+			"nama" : "master of ceremony"
+		},
+		{
+			"jenis" : "khusus",
+			"nama": "java"
+		}
+	]
+	
+}
